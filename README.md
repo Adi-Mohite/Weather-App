@@ -2,13 +2,10 @@
 
 A simple, responsive weather web application that allows users to get real-time weather information for any city using the OpenWeatherMap API.
 
-![Weather App Screenshot](https://user-images.githubusercontent.com/your-username/your-image.png) <!-- Add your app screenshot link here -->
 
 ## 🚀 Live Demo
 
-🔗 [Check it out here](https://your-live-site-link.com)  
-*(Optional — host on GitHub Pages or Netlify and add your link here)*
-
+🔗 [Check it out here](https://weatherapicheck.netlify.app/)  
 ---
 
 ## 🔧 Features
